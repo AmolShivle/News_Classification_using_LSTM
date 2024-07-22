@@ -6,7 +6,7 @@ This repository contains the implementation of an NLP-based **Text Classifier** 
 The classifier designed in this project is a deep neural network with one `Embedding` layer, two `LSTM` layers, and one output `Dense` layer. The optimzer and the loss function chosen for the model are `Adam` and `sparse_categorical_crossentropy` respectively.
 
 
-# Dataset
+## Dataset
 
 The dataset contains 7 columns REF_NO, category, Headline, author, link, date, and a short description.
 There are about 160683 rows of data points in the train set.
