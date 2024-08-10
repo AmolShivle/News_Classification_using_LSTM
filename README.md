@@ -33,7 +33,7 @@ To run this project, open the notebook in Google Colab and start executing each 
 
 The following figure shows how training and validation accuracy change over epochs during the training process. It also represents the changes in training and validation loss over the training epochs.
 
-![Accuracy and loss changes over training epochs](https://github.com/kayanmorshed/BBC-News-Classification-using-LSTM-and-TensorFlow/blob/main/evaluation/training_evaulations.png)
+![Accuracy and loss changes over training epochs](https://github.com/AmolShivle/News_Classification_using_LSTM/blob/main/evaluation.png)
 
 
 ## Conclusion
